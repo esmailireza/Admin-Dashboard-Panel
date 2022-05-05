@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../pages/new/new.scss"
+    ],
+    "names": [],
+    "file": "new.css"
+}
