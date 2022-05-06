@@ -1,1 +1,13 @@
-/* No CSS *//*# sourceMappingURL=list.css.map */
+.list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+.list .listContainer {
+  -webkit-box-flex: 6;
+      -ms-flex: 6;
+          flex: 6;
+}
+/*# sourceMappingURL=list.css.map */
