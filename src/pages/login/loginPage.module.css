@@ -1,0 +1,70 @@
+main {
+  height: 90vh;
+}
+.titleForm {
+  font-family: "Vazirmatn", sans-serif;
+}
+
+.titleTopForm {
+  font-family: "Vazirmatn", sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #e0e0e2;
+  padding: 2rem;
+}
+.button {
+  padding: 0.4rem 1rem;
+  width: 100%;
+  border: none;
+  background-color: #3b82f6;
+  color: white;
+  border-radius: 5px;
+  font-family: "Vazirmatn", sans-serif;
+}
+.button:disabled {
+  cursor: not-allowed;
+  border: none;
+  /* background-color: #c2cadf; */
+  background-color: #f3f3f3;
+  color: #9ca3af;
+}
+.headToSignup {
+  width: 100%;
+  text-align: left;
+}
+.formContainer .textAlign {
+  text-align: center;
+  width: 100%;
+  padding-bottom: 1.8rem;
+}
+.textAlign h3 {
+  font-size: 1.5rem;
+}
+.logoLogin {
+  width: 40%;
+  margin-bottom: 1.5rem;
+}
+.input_error__CqsdT {
+  text-align: right;
+  color: black;
+}
+.labelCheckBox {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+.inputCheckBox {
+  margin-top: -10px;
+}
+.linkForgetPass p {
+  font-size: 0.8rem;
+  margin-bottom: 0.4rem !important;
+  font-family: "Vazirmatn", sans-serif;
+}
+.linkSingup {
+  font-family: "Vazirmatn", sans-serif;
+}
